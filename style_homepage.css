@@ -1,0 +1,59 @@
+/* Reset some default styles */
+body, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Add a background color */
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+/* Style the rows */
+.row {
+    margin: 20px;
+}
+
+/* Style the headings */
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+/* Style the posters */
+.row__posters {
+    display: flex;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    padding: 20px;
+}
+
+.row__posters img {
+    max-width: 72*5px; /* Width */
+    height: 108*5px; /* Height */
+    object-fit: contain;
+    margin-right: 10px;
+}
+
+/* Add some spacing and styling for links */
+a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+/* Style the navigation bar */
+nav {
+    background-color: #111;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav img {
+    width: 100px;
+    height: auto;
+}
