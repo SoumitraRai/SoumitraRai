@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📫 How to reach me: https://www.instagram.com/i.am_soumitra?utm_source=qr
-- - 🔭 I’m currently working on a project to make a website which has a home page similar to netflix
-- 🌱 I’m currently learning javascript, bash scripting, c++, cybersecurity
+- 📫 How to reach me: https://www.linkedin.com/in/soumitrarai
+EMAIL: raisoumitra123@gmail.com
+<!-- - 🔭-->
+- 🌱 I’m currently learning reactJs and react Native along with mongoDB.
+- Certified in Cybersecurity by Google
+- Also pursuing skills development in AWS and DevOps.
