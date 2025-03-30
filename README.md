@@ -33,10 +33,10 @@
 ---
 
 ### 🔭 Currently Working On  
-📌 **Bifrost**: A cross-platform parental payment guardian application
-📌 **Proxy Server**: A host based proxy server to monitor traffic
-📌 **GCP Infrastructure**
-📌 **Ansible** : Automation of tasks
+📌 **Bifrost**: A cross-platform parental payment guardian application  
+📌 **Proxy Server**: A host based proxy server to monitor traffic  
+📌 **GCP Infrastructure**  
+📌 **Ansible** : Automation of tasks  
 📌 **ML Applications for Cybersecurity**  
 
 ---
