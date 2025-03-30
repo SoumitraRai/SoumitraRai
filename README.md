@@ -73,6 +73,15 @@
 
 ---
 
+## 🛡️ Cybersecurity Progress  
+
+💻 **TryHackMe:** [My Profile](https://tryhackme.com/p/raisoumitra123)  <p align="left">   <img src="https://tryhackme-badges.s3.amazonaws.com/raisoumitra123.png" alt="TryHackMe Badge" height="100"> </p>
+🚀 **Pwn.college:** [My Profile](https://pwn.college/hacker/97635)  
+
+
+
+---
+
 ## 🏆 Achievements  
 
 🏅 GATE 2025 Qualified (CS&IT) in 3rd Year of B.Tech  
