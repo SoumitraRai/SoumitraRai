@@ -29,19 +29,6 @@
 
 ---
 
-## 📑 Table of Contents
-
-- [About Me](#about-me)
-- [Currently Working On](#currently-working-on)
-- [Tech Stack](#tech-stack)
-- [Cybersecurity Progress](#cybersecurity-progress)
-- [Achievements](#achievements)
-- [Education](#education)
-- [GitHub Stats](#github-stats)
-- [Let's Connect!](#lets-connect)
-
----
-
 ## 🙋‍♂️ About Me
 
 Hi, I'm Soumitra! Welcome to my digital playground. I love exploring new technology, building projects, and solving real-world problems with code. Always learning, always building, always sharing.
