@@ -104,7 +104,7 @@ Hi, I'm Soumitra! Welcome to my digital playground. I love exploring new technol
 
 🎓 **B.Tech in Computer Science and Engineering**  
 Shri Mata Vaishno Devi University, Katra, JK (2022 – 2026)  
-CGPA: **7.46**
+CGPA: **7.52**
 
 ---
 
