@@ -4,6 +4,10 @@ Full-stack AI engineer in Gurugram, India. I build LLM products end to end: agen
 
 Right now I'm the founding engineer at a stealth AI startup, building a WhatsApp assistant that answers small-business owners' questions from their own accounting books.
 
+**[Try to break my agent](https://soumitrarai.github.io/portfolio/#break):** a live demo of the six guards behind that agent. Pick an attack and see which guard stops it.
+
+Case studies: [WhatsApp finance agent](https://soumitrarai.github.io/portfolio/work/mattr-whatsapp-agent/) · [LangGraph collections agent](https://soumitrarai.github.io/portfolio/work/mattr-collections-agent/) · [Idea Miner](https://soumitrarai.github.io/portfolio/work/idea-miner/)
+
 ## How I build AI products
 
 - **The model reads and reasons; code does the rest.** Maths, access control, and anything that must give the same answer twice run in plain code, outside the LLM.
